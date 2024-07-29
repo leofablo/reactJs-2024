@@ -1,4 +1,5 @@
-[
+{
+  "jobs": [
     {
       "id": "1",
       "title": "Senior React Developer",
@@ -82,5 +83,146 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "id": "7",
+      "title": "Senior UI/UX Designer (React)",
+      "type": "Full-Time",
+      "description": "We're looking for a talented UI/UX Designer with React experience to join our team in San Francisco, CA. The ideal candidate will have a strong portfolio showcasing their design skills and ability to create intuitive user interfaces.",
+      "location": "San Francisco, CA",
+      "salary": "$110K - $130K",
+      "company": {
+        "name": "Pixel Perfect Designs",
+        "description": "Pixel Perfect Designs is a cutting-edge design agency focused on creating beautiful and functional digital experiences. We work with clients across various industries to bring their visions to life.",
+        "contactEmail": "careers@pixelperfect.com",
+        "contactPhone": "555-555-5556"
+      }
+    },
+    {
+      "id": "8",
+      "title": "Junior React Developer",
+      "type": "Full-Time",
+      "description": "Great opportunity for a Junior React Developer to join our team in Austin, TX. We're looking for someone passionate about front-end development and eager to learn. You'll work on exciting projects and grow your skills with mentorship from senior developers.",
+      "location": "Austin, TX",
+      "salary": "$60K - $75K",
+      "company": {
+        "name": "TechStart Innovations",
+        "description": "TechStart Innovations is a vibrant startup incubator, nurturing the next generation of tech talent. We provide a supportive environment for young professionals to develop their skills and make their mark in the industry.",
+        "contactEmail": "hr@techstart.io",
+        "contactPhone": "555-555-5557"
+      }
+    },
+    {
+      "id": "9",
+      "title": "React Performance Specialist",
+      "type": "Contract",
+      "description": "Seeking a React Performance Specialist for a 6-month contract in Chicago, IL. You'll be responsible for optimizing our web applications, improving load times, and ensuring smooth user experiences across all devices.",
+      "location": "Chicago, IL",
+      "salary": "$90 - $110 per hour",
+      "company": {
+        "name": "SpeedForce Web Solutions",
+        "description": "SpeedForce Web Solutions specializes in creating lightning-fast web applications. We're dedicated to pushing the boundaries of web performance and delivering exceptional user experiences.",
+        "contactEmail": "contracts@speedforce.com",
+        "contactPhone": "555-555-5558"
+      }
+    },
+    {
+      "id": "10",
+      "title": "React & GraphQL Developer",
+      "type": "Full-Time",
+      "description": "Join our team in Seattle, WA as a React & GraphQL Developer. We're looking for someone with strong skills in both React and GraphQL to help build our next-generation data-driven applications.",
+      "location": "Seattle, WA",
+      "salary": "$95K - $115K",
+      "company": {
+        "name": "DataFlow Systems",
+        "description": "DataFlow Systems is at the forefront of data visualization and analysis. We create powerful tools that help businesses make sense of complex data sets and drive informed decision-making.",
+        "contactEmail": "jobs@dataflow.tech",
+        "contactPhone": "555-555-5559"
+      }
+    },
+    {
+      "id": "11",
+      "title": "Senior React Native Developer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a Senior React Native Developer in Denver, CO. You'll lead the development of cross-platform mobile applications, mentoring junior developers and collaborating with our design team to create intuitive mobile experiences.",
+      "location": "Denver, CO",
+      "salary": "$120K - $140K",
+      "company": {
+        "name": "MobileFirst Solutions",
+        "description": "MobileFirst Solutions is dedicated to creating cutting-edge mobile applications that transform how businesses interact with their customers. We're passionate about mobile technology and its potential to change the world.",
+        "contactEmail": "careers@mobilefirst.io",
+        "contactPhone": "555-555-5560"
+      }
+    },
+    {
+      "id": "12",
+      "title": "React Accessibility Specialist",
+      "type": "Full-Time",
+      "description": "We're seeking a React Accessibility Specialist to join our team in Washington, D.C. You'll be responsible for ensuring our web applications are accessible to all users, including those with disabilities. Strong knowledge of WCAG guidelines is required.",
+      "location": "Washington, D.C.",
+      "salary": "$85K - $105K",
+      "company": {
+        "name": "Inclusive Web Co.",
+        "description": "Inclusive Web Co. is committed to making the internet a more accessible place for everyone. We work with government agencies and private sector clients to ensure their digital presence is inclusive and compliant with accessibility standards.",
+        "contactEmail": "hr@inclusiveweb.org",
+        "contactPhone": "555-555-5561"
+      }
+    },
+    {
+      "id": "13",
+      "title": "React & Node.js Full Stack Developer",
+      "type": "Full-Time",
+      "description": "Join our team in Las Vegas, NV as a Full Stack Developer specializing in React and Node.js. You'll work on exciting projects in the entertainment and hospitality industry, creating engaging web applications for world-class resorts and casinos.",
+      "location": "Las Vegas, NV",
+      "salary": "$100K - $120K",
+      "company": {
+        "name": "Entertainment Tech Solutions",
+        "description": "Entertainment Tech Solutions is at the intersection of technology and entertainment. We create innovative digital solutions that enhance guest experiences in the hospitality and entertainment industries.",
+        "contactEmail": "jobs@entertainmenttech.com",
+        "contactPhone": "555-555-5562"
+      }
+    },
+    {
+      "id": "14",
+      "title": "React E-commerce Specialist",
+      "type": "Full-Time",
+      "description": "We're looking for a React E-commerce Specialist to join our team in New Orleans, LA. You'll be responsible for developing and maintaining high-performance e-commerce platforms using React, working closely with our marketing and sales teams.",
+      "location": "New Orleans, LA",
+      "salary": "$80K - $100K",
+      "company": {
+        "name": "Bayou Commerce",
+        "description": "Bayou Commerce is a leading e-commerce solutions provider, helping businesses of all sizes establish and grow their online presence. We combine cutting-edge technology with Southern hospitality to deliver exceptional results for our clients.",
+        "contactEmail": "careers@bayoucommerce.com",
+        "contactPhone": "555-555-5563"
+      }
+    },
+    {
+      "id": "15",
+      "title": "React Testing Specialist",
+      "type": "Full-Time",
+      "description": "Join our quality assurance team in Minneapolis, MN as a React Testing Specialist. You'll be responsible for developing and implementing comprehensive testing strategies for our React-based applications, ensuring high-quality releases.",
+      "location": "Minneapolis, MN",
+      "salary": "$85K - $105K",
+      "company": {
+        "name": "Quality Code Labs",
+        "description": "Quality Code Labs is dedicated to improving software quality through rigorous testing and quality assurance practices. We work with clients across various industries to ensure their applications meet the highest standards of reliability and performance.",
+        "contactEmail": "hr@qualitycodelabs.com",
+        "contactPhone": "555-555-5564"
+      }
+    },
+    {
+      "id": "16",
+      "title": "React & AWS Cloud Developer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a React & AWS Cloud Developer in Honolulu, HI. You'll work on cutting-edge projects leveraging React for front-end development and AWS services for scalable cloud solutions. Experience with serverless architecture is a plus.",
+      "location": "Honolulu, HI",
+      "salary": "$110K - $130K",
+      "company": {
+        "name": "Island Cloud Technologies",
+        "description": "Island Cloud Technologies is bringing the power of cloud computing to paradise. We specialize in developing scalable, cloud-native applications that help businesses harness the full potential of cloud technology.",
+        "contactEmail": "jobs@islandcloud.tech",
+        "contactPhone": "555-555-5565"
+      }
     }
   ]
+}
